@@ -1,4 +1,12 @@
-
+  
+/* menu:-Insetion
+        -Deletion
+        -Search the Node
+        -Height of the BST
+        -Number of the leaf Node
+        -Total number of NODE
+        -Display(inorder)*/
+ 
 #include<stdio.h>
 #include<stdlib.h>
 typedef struct Node{

@@ -1,5 +1,5 @@
   
-/* menu:-Insetion
+/* menu:-Insertion
         -Deletion
         -Search the Node
         -Height of the BST
